@@ -1,2 +1,2 @@
 # Hotel-Booking-Analysis
-Analyzed client data by writing and executing SQL queries to extract key insights. Integrated the cleaned data with Python for processing, exported it as a CSV, and connected it to Looker Studio for interactive visualization.
+Cleaned and Enriched Client data by merging reference sheets, replacing coded values with actual names, and analyzing trends using Python and SQL. Finally, visualized key insights through a dynamic Looker Studio dashboard.
