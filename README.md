@@ -1,2 +1,4 @@
 # Hotel-Booking-Analysis
-Cleaned and Enriched Client data by merging reference sheets, replacing coded values with actual names, and analyzing trends using Python and SQL. Finally, visualized key insights through a dynamic Looker Studio dashboard.
+Developed a comprehensive data cleaning and enrichment pipeline using Python and SQL to process client data. Analyzed and visualized key insights and trends through a dynamic Looker Studio dashboard.
+ 
+ 
